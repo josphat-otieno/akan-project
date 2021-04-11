@@ -5,4 +5,7 @@ function akanName(){
     var mm = parseInt(document.getElementById("month").value);
     var dd = parseInt(document.getElementById("day").value);
     var gender = document.getElementByName("gender")
+    var dayWeek= ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+    var maleName= ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"]
+    var femaleName=["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua"]
 }
