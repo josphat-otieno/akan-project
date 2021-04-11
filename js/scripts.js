@@ -8,4 +8,6 @@ function akanName(){
     var dayWeek= ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
     var maleName= ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"]
     var femaleName=["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua"]
+    var birthday=(((cc/4) -2*cc-1) + ((5*yy/4)) + ((26*(mm+1)/10)) + dd)
+    var getAkanName;
 }
