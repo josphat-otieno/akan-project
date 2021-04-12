@@ -13,3 +13,9 @@
 ## About the Author
 Name : Josepat Otieno
 The author is a student at Moringa School taking Software Development course
+## Set up instructions
+You need to have git installed on your machine. You can install it with the following command in the terminal
+`$ sudo apt install git-all`
+You can use the following steps to access this project on you machine:
+1. Open your terminal and use this command to clone `$ git clone https://github.com/josphat-otieno/akan-project.git`
+2. This will clone the repository into your local machine.
