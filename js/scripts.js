@@ -5,10 +5,8 @@ function akanName(){
     var mm = parseInt(document.getElementById("month").value);
     var dd = parseInt(document.getElementById("day").value);
     var dayBorn=mm+"/"+dd+"/"+yr;
-    var gender= prompt("Enter your you gender, male or female?")
-    
+    var gender= prompt("Enter your you gender, either male or female?")
     getAkanName(dayBorn);
-    
     } 
     function getAkanName(dayBorn, gender){
       var dateOfBirth = new Date(dayBorn);
