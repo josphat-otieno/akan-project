@@ -6,9 +6,13 @@
 
  where;
  CC - is the century digits. For example 1989 has CC = 19
+
  YY - is the Year digits (1989 has YY = 89)
+
  MM -  is the Month
+
  DD - is the Day of the month 
+
  mod - is the modulus function ( % )
 ## About the Author
 Name : Josepat Otieno
@@ -19,3 +23,14 @@ You need to have git installed on your machine. You can install it with the foll
 You can use the following steps to access this project on you machine:
 1. Open your terminal and use this command to clone `$ git clone https://github.com/josphat-otieno/akan-project.git`
 2. This will clone the repository into your local machine.
+
+## Technologies used
+The following technologies were used in building up the project:
+1. HTML
+2. Bootstrap
+3. JavaScript
+4. CSS
+## Contact Inforamtion
+ Phone: +254717878813
+ Email address: josephatotieno92@gmail.com
+ 
