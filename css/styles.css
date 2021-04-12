@@ -4,10 +4,14 @@ h1 {
   font-weight: bold;
   background-color: blueviolet;
 }
+h2 {
+   text-underline-position: below;
+}
 p {
    font-size: x-large;
    font-family: 'Times New Roman', Times, serif;
 }
+
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
@@ -22,4 +26,17 @@ table {
   
   tr:nth-child(even) {
     background-color: #dddddd;
+  }
+  input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  #male, #female{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
   }
