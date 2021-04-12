@@ -26,12 +26,42 @@ You can use the following steps to access this project on you machine:
 
 ## BDD
 <table>
-            <tr>
-                <th>DAY</th>
-                <th>MALE</th>
-                <th>FEMALE</th>
-            </tr>
- </table>           
+         <tr>
+             <th>Inputs</th>
+             <th>Descriptio</th>
+         </tr>
+         <tr>
+             <td>Century (cc)</td>
+             <td>The century digits of the year the user was born eg 1980 has cc 19</td>
+         </tr>
+         <tr>
+             <td>Year (yy)</td>
+             <td>The year of the century eg 1980 has yy 80</td>
+         </tr>
+         <tr>
+             <td>Month (mm)</td>
+             <td>The month of the year</td>
+         </tr>
+         <tr>
+             <td>Day (dd)</td>
+             <td>The day of the month</td>
+         </tr>
+     </table><br>
+     <table>
+         <tr>
+          <th>Outputs</th>
+          <th>Description</th>
+        </tr>
+        <tr>
+            <td>Day of the week</td>
+            <td>The day of the week a person was born e.g Monday</td>
+        </tr>
+        <tr>
+            <td>Akan name</td>
+            <td>The corresponding akan name given to the person
+            </td>
+        </tr>
+     </table>
 
 ## Technologies used
 The following technologies were used in building up the project:
