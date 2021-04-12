@@ -10,25 +10,6 @@
  MM -  is the Month
  DD - is the Day of the month 
  mod - is the modulus function ( % )
- ##BDD
-
-Inputs
-Description
-Century (cc)
-The century digits of the year the user was born eg 1980 has cc 19
-Year (yy)
-The year of the century eg 1980 has yy 80
-Month (mm)
-The month of the year
-Day (dd)
-The day of the month
-
-outputs
-description
-Day of the week
-The day of the week a person was born e.g Monday
-Akan name
-The corresponding akan name given to the person
-
-
-
+## About the Author
+Name : Josepat Otieno
+The author is a student at Moringa School taking Software Development course
