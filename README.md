@@ -23,46 +23,24 @@ You need to have git installed on your machine. You can install it with the foll
 You can use the following steps to access this project on you machine:
 1. Open your terminal and use this command to clone `$ git clone https://github.com/josphat-otieno/akan-project.git`
 2. This will clone the repository into your local machine.
+3. Open the terminal on your machine and navigate to the root folder of the application  `$cd akan-project`
+4. Open index.html on your browser.
 
-## BDD
-<table>
-         <tr>
-             <th>Inputs</th>
-             <th>Descriptio</th>
-         </tr>
-         <tr>
-             <td>Century (cc)</td>
-             <td>The century digits of the year the user was born eg 1980 has cc 19</td>
-         </tr>
-         <tr>
-             <td>Year (yy)</td>
-             <td>The year of the century eg 1980 has yy 80</td>
-         </tr>
-         <tr>
-             <td>Month (mm)</td>
-             <td>The month of the year</td>
-         </tr>
-         <tr>
-             <td>Day (dd)</td>
-             <td>The day of the month</td>
-         </tr>
-     </table><br>
-     <table>
-         <tr>
-          <th>Outputs</th>
-          <th>Description</th>
-        </tr>
-        <tr>
-            <td>Day of the week</td>
-            <td>The day of the week a person was born e.g Monday</td>
-        </tr>
-        <tr>
-            <td>Akan name</td>
-            <td>The corresponding akan name given to the person
-            </td>
-        </tr>
-     </table>
-
+## Behaviour Driven Development
+<p>Displays a landing page that describes what the project is all about. Displays form for entering date of birth</p>
+    <h3>Inputs</h3>
+    <p>The user enters:</p>
+    <ul>
+        <li>Year</li>
+        <li>Month</li>
+        <li>Day</li>
+    </ul>
+    <h3>Output</h3>
+    <p>Displays a pop screen prompting the user to enter their gender either <strong><em>male</em></strong> or <strong><em>female.</em></strong></p>
+    <h3>Output</h3>
+    <p>Displays a pop screen alerting the their date of birth in the format of "mm/dd/yy".</p>
+    <p>Displays a pop screen alerting users the <strong><em>day of the week</em></strong> they were born and their respective <strong><em>akan names.</em><strong></p>
+        
 ## Technologies used
 The following technologies were used in building up the project:
 1. HTML
