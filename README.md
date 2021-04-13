@@ -38,7 +38,7 @@ You can use the following steps to access this project on you machine:
     <h3>Output</h3>
     <p>Displays a pop screen prompting the user to enter their gender either <strong><em>male</em></strong> or <strong><em>female.</em></strong></p>
     <h3>Output</h3>
-    <p>Displays a pop screen alerting the their date of birth in the format of "mm/dd/yy".</p>
+    <p>Displays a pop screen alerting the users their date of birth in the format of "mm/dd/yy".</p>
     <p>Displays a pop screen alerting users the <strong><em>day of the week</em></strong> they were born and their respective <strong><em>akan names.</em><strong></p>
         
 ## Technologies used
