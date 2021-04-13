@@ -72,9 +72,9 @@
         </ol>
         <br>
         <form>
-            YEAR : <input type="text" id="year">
-            MONTH: <input type="text" id="month">
-            DAY: <input type="text" id="day"><br>
+            YEAR : <input type="text" id="year" min="1900" max="2037">
+            MONTH: <input type="text" id="month" min="1" max="12">
+            DAY: <input type="text" id="day" min="1" max="31"><br>
             
         </form>
         <button type="button" onclick="akanName()">getAkanName</button>
