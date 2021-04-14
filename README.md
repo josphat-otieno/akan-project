@@ -25,6 +25,7 @@ You can use the following steps to access this project on you machine:
 2. This will clone the repository into your local machine.
 3. Open the terminal on your machine and navigate to the root folder of the application  `$cd akan-project`
 4. Open index.html on your browser.
+5. Here is the live link to the website `https://josphat-otieno.github.io/akan-project/`
 
 ## Behaviour Driven Development
 <p>Displays a landing page that describes what the project is all about. Displays form for entering date of birth</p>
@@ -51,6 +52,6 @@ The following technologies were used in building up the project:
 5. Git
 ## Contact Inforamtion
  Phone: +254717878813
- 
+
  Email address: josephatotieno92@gmail.com
 
