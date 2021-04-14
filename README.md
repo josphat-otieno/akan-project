@@ -40,6 +40,7 @@ You can use the following steps to access this project on you machine:
     <h3>Output</h3>
     <p>Displays a pop screen alerting the users their date of birth in the format of "mm/dd/yy".</p>
     <p>Displays a pop screen alerting users the <strong><em>day of the week</em></strong> they were born and their respective <strong><em>akan names.</em><strong></p>
+    <p> A pop screen appears alerting the user to enter valid values if wrong values are entered or a field is left empty<p>
         
 ## Technologies used
 The following technologies were used in building up the project:
@@ -47,7 +48,9 @@ The following technologies were used in building up the project:
 2. Bootstrap
 3. JavaScript
 4. CSS
+5. Git
 ## Contact Inforamtion
  Phone: +254717878813
+ 
  Email address: josephatotieno92@gmail.com
 
