@@ -15,9 +15,9 @@ function akanName(){
     var daysOfWeek = dateOfBirth.getDay(); 
     var weekDay = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
     var maleName= ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"]
-    var femaleName= ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua"]
+    var femaleName= ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"]
   
-    if (yr=="" || yr<1900 || yr>2037 && mm=="" || mm<=0 || mm>12 && dd=="" || dd<=0 || dd>31){
+    if (yr==" " || yr<1900 || yr>2037 && mm==" " || mm<=0 || mm>12 && dd==" " || dd<=0 || dd>31){
       alert ("please enter valid value")
    }if(gender == "male"){
        alert("Your were born on  " + weekDay[daysOfWeek] + " and your Akan name is " + maleName[daysOfWeek]);
